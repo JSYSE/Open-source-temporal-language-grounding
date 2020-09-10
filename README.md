@@ -12,6 +12,8 @@ This repo collects several implementations for temporal language grounding/natur
 2019  
 [AAAI2019 ABLR tensorflow](https://github.com/yytzsy/ABLR_code)  
 [ICMR2019 SLTA tensorflow](https://github.com/BonnieHuangxin/SLTA)  
+[NIPS2019 SCDM tensorflow](https://github.com/yytzsy/SCDM)  
+[SIGIR2019 CMIN pytorch](https://github.com/ikuinen/CMIN_moment_retrieval)  
 [WACV2019 MAC tensorflow](https://github.com/runzhouge/MAC)  
 
 2018  
