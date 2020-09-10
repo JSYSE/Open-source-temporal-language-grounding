@@ -18,6 +18,7 @@ This repo collects several implementations for temporal language grounding/natur
 [WACV2019 MAC tensorflow](https://github.com/runzhouge/MAC)  
 
 2018  
+[SIGIR2018 ACRN tensorflow](https://sigir2018.wixsite.com/acrn)  
 
 2017  
 [ICCV2017 TALL tensorflow](https://github.com/jiyanggao/TALL)  
