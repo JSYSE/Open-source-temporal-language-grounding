@@ -7,6 +7,7 @@ This repo collects several implementations for temporal language grounding/natur
 [AAAI2020 2d-tan official pytorch](https://github.com/microsoft/2D-TAN)  
 [AAAI2020 2d-tan optimized pytorch](https://github.com/ChenJoya/2dtan)  
 [ACL2020 VSLnet tensorflow](https://github.com/IsaacChanghau/VSLNet)  
+[ECCV2020 HVTG tensorflow](https://github.com/forwchen/HVTG)  
 [WACV2020 TMLGA pytorch](https://github.com/crodriguezo/TMLGA)  
 
 2019  
